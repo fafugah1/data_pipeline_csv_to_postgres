@@ -13,6 +13,6 @@
 #### Data generated n tested for validity
 #### Docker-compose file works fine
 
-# HOWEVER, PROGRESS STALLED AT CREATING AND TEST CONNECTION FOR THE POSTGRES DATABASE
+# HOWEVER, PROGRESS STALLED AT CREATING AND TESTING CONNECTION FOR THE POSTGRES DATABASE
 #### Kindly view *test_connection.ipynb* for problem identification
 #### I need assistance to cross this bridge
